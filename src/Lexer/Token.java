@@ -2,7 +2,7 @@ package lexer;
 public class Token{
     private String lexema;
     private TokenType atributo;
-    private String value; // Utilizado en la generación de código
+    private String value;
     
     public Token(String lexema, TokenType atributo){
         this.lexema = lexema;
