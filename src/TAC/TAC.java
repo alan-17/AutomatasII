@@ -1,8 +1,9 @@
-package TAC;
+package tac;
 
-import AST.*;
 import java.util.ArrayList;
 import java.util.List;
+
+import ast.*;
 
 public class TAC {
     private int tempCounter = 1;

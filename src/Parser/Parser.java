@@ -1,9 +1,10 @@
-package Parser;
+package parser;
 
-import AST.*;
-import Lexer.Lexer;
-import Lexer.Token;
-import Lexer.TokenType;
+import ast.*;
+import lexer.Lexer;
+import lexer.Token;
+import lexer.TokenType;
+
 import java.util.ArrayList;
 import java.util.List;
 

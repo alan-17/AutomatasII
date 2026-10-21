@@ -1,7 +1,8 @@
-package AST;
+package ast;
 
-import Lexer.Token;
 import java.util.List;
+
+import lexer.Token;
 
 public class VarDeclNode extends Node {
     public List<String> variables;

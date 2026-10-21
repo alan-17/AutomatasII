@@ -1,9 +1,9 @@
-package TestMain;
+package testMain;
 
-import AST.Node;
-import Lexer.Lexer;
-import Parser.Parser;
-import TAC.TAC;
+import ast.Node;
+import lexer.Lexer;
+import parser.Parser;
+import tac.TAC;
 
 public class Main {
     public static void main(String[] args) {

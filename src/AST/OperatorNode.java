@@ -1,5 +1,5 @@
-package AST;
-import Lexer.Token;
+package ast;
+import lexer.Token;
 
 public class OperatorNode extends Node {
     public Node left;

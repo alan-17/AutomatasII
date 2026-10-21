@@ -1,4 +1,4 @@
-package Lexer;
+package lexer;
 public class Token{
     private String lexema;
     private TokenType atributo;

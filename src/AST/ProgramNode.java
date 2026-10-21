@@ -1,6 +1,6 @@
-package AST;
+package ast;
 
-import AST.Node;
+import ast.Node;
 
 public class ProgramNode extends Node {
     public String name;
